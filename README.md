@@ -15,8 +15,7 @@
 
 ## 💼 Experience
 - 👨‍💻 Worked as a **Frontend Developer** at [maciatka.eu](https://maciatka.eu)  
-- 📊 Project Manager at **FinPay**  
-- 🤖 Contributed to the development of an **AI-powered communication and digital document signing service**  
+- 📊 Project Manager at **FinPay**    
 
 ---
 
